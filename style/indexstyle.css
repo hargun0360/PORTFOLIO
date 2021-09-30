@@ -1,0 +1,25 @@
+#home{
+background-image: url(../image/template\ hargun.jpg);
+height: 100vh;
+background-size: cover;
+}
+
+.heading{
+    height: 35px;
+    width : 800px;
+    text-align: left;
+    padding: 8%;
+    font-size: 6em;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(0, 0, 0);
+    margin-left: 15%;
+
+}
+.para{
+
+    color: black;
+    font-size: 30px;
+    font-family: cursive;
+    text-align: center;
+    padding-top: 2%;
+}

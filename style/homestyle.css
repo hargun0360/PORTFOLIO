@@ -1,0 +1,34 @@
+
+.navbar{
+    background-color: blueviolet;
+    border-radius: 15px;
+    }
+
+li{
+    float:left;
+    list-style: none; 
+    margin: 25px 50px;
+    font-size: 20px;
+    font-family: cursive;
+}
+
+.navbar ul{
+    overflow: auto;
+    margin-top: -6px;
+    /* padding: 30px,30px; */
+}
+
+.navbar li a{
+    padding: 3px 3px;
+    text-decoration: none;
+    color: white;
+}
+.bg{
+
+    background-color: rgba(7, 2, 2, 0.876);
+}
+
+.navbar li a:hover{
+
+    color: rgb(30, 255, 0);
+}
