@@ -2,16 +2,17 @@
 
     background-image: url(../image/bg1.jpg);
     opacity: 1.0;
-    height: 150vh;
+    height: 45vh;
     background-size: cover;
 }
 
 .heading3{
 
-    font-size: 5em;
-    text-align: center;
+    font-size: 3em;
+    text-align: left;
     margin-top: 1%;
     margin-bottom: -7%;
+    margin-left: 25%;
 }
 
 .images{
@@ -19,39 +20,32 @@
     float: left;
     margin-top: 9%;
     margin-left: 3%;
+    padding-left: 20%;
+    margin-left: -15%;
 }
 
 .image1{
 
-    height: 400px;
-    width: 400px;
+    height: 150px;
+    width: 150px;
+    padding-left: 0%;
+    padding-right: 0%;
 }
 
 .image2{
 
-    height: 400px;
-    width: 400px;
+    height: 150px;
+    width: 150px;
 }
 
 .image3{
 
-    height: 400px;
-    width: 400px;
+    height: 150px;
+    width: 150px;
 }
 
-.image4{
-
-    height: 400px;
-    width: 400px;
-}
-
-.image5{
-
-    height: 400px;
-    width: 400px;
-}
 .image6{
 
-    height: 400px;
-    width: 400px;
+    height: 150px;
+    width: 150px;
 }

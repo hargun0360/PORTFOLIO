@@ -1,0 +1,51 @@
+.heading8{
+
+    text-align: left;
+    font-size: 2em;
+    color: rgb(0, 0, 0);
+    margin-top: 1%;
+    margin-bottom: -7%;
+    margin-left: 20%;
+}
+
+#contact{
+    background-color:white ;
+    float: none;
+    background-image: url(../image/bg5.jpg);
+    opacity: 1.0;
+    height: 25vh;
+    background-size: cover;
+}
+
+.one{
+
+    height: 50px;
+    width: 50px;
+    margin-left: 0%;
+}
+.two{
+
+    height: 50px;
+    width: 50px;
+    margin-left: 10%;
+}
+
+.three{
+
+    height: 50px;
+    width: 50px;
+    margin-left: 10%;
+}
+
+.four{
+
+    height: 50px;
+    width: 50px;
+    margin-left: 10%;
+}
+.imagee{
+
+    margin-top: 8%;
+    
+}
+
