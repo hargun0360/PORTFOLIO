@@ -1,0 +1,84 @@
+#project{
+
+    background-image: url(../image/bgp.jpg);
+    opacity: 1.0;
+    height: 150vh;
+    background-size: cover;
+}
+
+.heading4{
+
+    color: white;
+    font-size: 5em;
+    text-align: center;
+    margin-top: 1%;
+    margin-bottom: -7%;
+}
+
+.container1{
+
+
+        float: left;
+        margin-top: 13%;
+        margin-left: 4%;
+        display: flex;
+}
+
+.bank{
+    font-size:  2em;
+    text-align: justify;
+}
+
+.ima{
+
+    height: 400px;
+    width: 400px;
+}
+.para4{
+
+    text-align: left;
+    color: whitesmoke;
+    font-size: 1em;
+    font-family: cursive;
+}
+
+.ima2{
+
+    height: 400px;
+    width: 400px;
+}
+.para5{
+
+    text-align: left;
+    color: whitesmoke;
+    font-size: 1em;
+    font-family: cursive;
+}
+.banking{
+
+    padding-right: 24%;
+}
+.portfolio1{
+
+    width: 101%;
+}
+.banking a{
+
+    color: whitesmoke;
+
+}
+
+.portfolio1 a{
+
+    color: whitesmoke;
+}
+
+.banking a:hover{
+
+    color: rgb(10, 243, 10);
+}
+
+.portfolio1 a:hover{
+
+    color: rgb(10, 243, 10);
+}
