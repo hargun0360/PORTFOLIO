@@ -1,3 +1,104 @@
+
+
+@media(min-width:1240px){
+
+    #about{
+
+        background-image: url(../image/bg2.jpg);
+        height: 60vh;
+        background-size: cover;
+    }
+    
+    .heading2{
+    
+        text-align: center;
+        font-size: 2em;
+        font-weight: 500;
+        font-family: Georgia, 'Times New Roman', Times, serif ;
+        height: 30%;
+        margin-top: 1%;
+        margin-bottom: -7%;
+        
+    }
+    
+    .para2{
+    
+        text-align: center;
+        font-family:cursive;
+        font-weight: 400;
+        font-size: 20px;
+        padding-left: 20%;
+        margin-bottom: 100%;
+        margin-top: -15%;
+         letter-spacing: 1px;
+        /* background-color: rgb(230, 255, 148); */
+    }
+    .image{
+    
+        margin-left: 0%;
+        width: 250px;
+        height: 250px;
+        margin-bottom: 0%;
+        border-style: solid;
+        border-color: black;
+        border-radius: 100%;
+        margin-top: 5%;
+    
+    
+    }
+    
+}
+
+@media(min-width:988px) and (max-width:1239px){
+
+    #about{
+
+        background-image: url(../image/bg2.jpg);
+        height: 60vh;
+        background-size: cover;
+    }
+    
+    .heading2{
+    
+        text-align: center;
+        font-size: 1rem;
+        font-weight: 500;
+        font-family: Georgia, 'Times New Roman', Times, serif ;
+        height: 30%;
+        margin-top: 1%;
+        margin-bottom: -7%;
+        
+    }
+    
+    .para2{
+    
+        text-align: justify;
+        font-family:cursive;
+        font-weight: 400;
+        font-size: 20px;
+        padding-left: 20%;
+        margin-bottom: 100%;
+        margin-top: -15%;
+         letter-spacing: 1px;
+        /* background-color: rgb(230, 255, 148); */
+    }
+    .image{
+    
+        margin-left: 0%;
+        width: 250px;
+        height: 250px;
+        margin-bottom: 0%;
+        border-style: solid;
+        border-color: black;
+        border-radius: 100%;
+        margin-top: 10%;
+    
+    
+    }
+    
+}
+
+
 #about{
 
     background-image: url(../image/bg2.jpg);
