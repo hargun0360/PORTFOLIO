@@ -800,16 +800,16 @@
 
 }
 
-@media(max-width:363px)
+@media(max-width:352px)
 {
 
 
     #about{
 
         background-image: url(../image/bg2.jpg);
-        height: 80vh;
+        height: 60vh;
         background-size: cover;
-        width: 172%;
+        width: 180%;
     }
 
     #home{
@@ -817,40 +817,40 @@
         height: 80vh;
         background-size: cover;
         margin-top: -3%;
-        width: 172%;
+        width: 180%;
         }
     
         #skills{
 
             background-image: url(../image/bg1.jpg);
             opacity: 1.0;
-            height: 35vh;
+            height: 30vh;
             background-size: cover;
-            width: 172%;
+            width: 180%;
         }
 
         #project{
 
             background-image: url(../image/bgp.jpg);
             opacity: 1.0;
-            height: 100vh;
+            height: 75vh;
             background-size: cover;
-            width: 172%;;
+            width: 180%;
         }
         #contact{
             background-color:white ;
             float: none;
             background-image: url(../image/bg5.jpg);
             opacity: 1.0;
-            height: 30vh;
+            height: 20vh;
             background-size: cover;
-            width: 172%;
+            width: 180%;
         }
 
         .navbar{
             background-color: blueviolet;
             border-radius: 5px;
-            width: 172%;
+            width: 180%;
             }
 
             #about{
