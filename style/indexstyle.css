@@ -25,3 +25,14 @@ margin-top: -3%;
     text-align: center;
     padding-top: -10%;
 }
+
+@media(max-width: 768px){
+    #home{
+        background-image: url(../image/template\ hargun.jpg);
+        height: 30vh;
+        background-size: cover;
+        margin-top: -6%;
+        width: 153%;
+        }
+
+}
